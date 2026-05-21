@@ -2,7 +2,7 @@
 
 Predictive analytics project for identifying shipment delay risk and the operational drivers behind late deliveries. The project uses logistics workflow data to analyze delay patterns, compare machine learning models, and select a business-aligned model that prioritizes reducing missed delays.
 
-![Project Workflow](assets/figures/project_workflow.png)
+![Project Workflow](assets/figures/project_workflow_v2.png)
 
 ## Business Problem
 
